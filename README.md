@@ -13,4 +13,4 @@ Components:
 
 ## User interface
 
-![UI](./ui.png "UI")
+![UI](ui.PNG "UI")
