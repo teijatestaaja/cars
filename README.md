@@ -10,3 +10,7 @@ Components:
 - [Carlist](/src/components/Carlist.js) -- Main component that shows 10 cars as a default. Enables sorting, filtering, adding, editing and deleting a car
 - [Addcar](/src/components/Addcar.js) -- Dialog for adding a new car
 - [Editcar](/src/components/Editcar.js) -- Dialog for editing a car
+
+## User interface
+
+![UI](ui.png "UI")
